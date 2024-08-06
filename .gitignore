@@ -1,0 +1,10 @@
+*.*
+
+!.gitignore
+!*.md
+!*.py
+
+!**/*.s
+**/run.s
+
+lab_0*
